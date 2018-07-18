@@ -1,7 +1,7 @@
 [
   {
     "id": 145,
-    "name": "ate",
+    "name": "ates",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
     "price": 164,
     "priceCurrency": "EUR",
@@ -10,7 +10,7 @@
   },
   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
+    "name": "Trendsy Apt in Buttes Montmartre",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
     "price": 200,
     "priceCurrency": "EUR",
