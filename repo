@@ -1,12 +1,12 @@
 [
   {
-    "id": 201,
-    "name": "Bahay na Bato",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZ4Qi9y7TZ6w5jKTlZ6JW_ETBxFMNVzH0ndm1loia4qqtr2ms",
+    "id": 212,
+    "name": "Basilica Minore of OUr Lady of Charity",
+    "imageUrl": "https://3.bp.blogspot.com/-5jNtokVrZvg/V_UoXV1oXHI/AAAAAAAAIVs/3YnktxpUBaA4LoY4LoadwZ3OWrHj4c38wCLcB/s1600/IMG_3921.JPG",
     "priceCurrency": "₱",
-    "price": 50,
-    "lat": 16.8472,
-    "lng": 120.3517
+    "price": 0,
+    "lat":    16.324756,
+    "lng": 120.355081
   },
   {
     "id": 202,
@@ -36,24 +36,6 @@
     "lng": 120.3216
   },
   {
-    "id": 205,
-    "name": "Macho Temple",
-    "imageUrl": "https://media3.trover.com/T/56cab8077eb4f47a5a19f2ba/fixedw_large_4x.jpg",
-    "priceCurrency": "₱",
-    "price": 0,
-    "lat":  16.621514,
-    "lng": 120.317510
-  },
-  {
-    "id": 206,
-    "name": "Thunderbird Resort",
-    "imageUrl": "https://i.ytimg.com/vi/lUu0F8vzSAY/maxresdefault.jpg",
-    "priceCurrency": "₱",
-    "price": 1500,
-    "lat": 16.609267,
-    "lng": 120.286335
-  },
-   {
     "id": 207,
     "name": "Grapes Picking",
     "imageUrl": "https://immeross.files.wordpress.com/2015/01/img_2064-0.jpg",
@@ -62,14 +44,14 @@
     "lat":  16.461432,
     "lng": 120.333869
   },
-   {
-    "id": 208,
-    "name": "Urbiztondo Beach",
-    "imageUrl": "http://launion.thecirclehostel.com/wp-content/uploads/2016/05/thecirclehostel-la-union-9.jpg",
+  {
+    "id": 205,
+    "name": "Macho Temple",
+    "imageUrl": "https://media3.trover.com/T/56cab8077eb4f47a5a19f2ba/fixedw_large_4x.jpg",
     "priceCurrency": "₱",
-    "price": 150,
-    "lat":  16.658783,
-    "lng": 120.321468
+    "price": 0,
+    "lat":  16.621514,
+    "lng": 120.317510
   },
   {
     "id": 209,
@@ -81,13 +63,22 @@
     "lng": 120.4833
   },
   {
-    "id": 210,
-    "name": "Halo halo de Iloko",
-    "imageUrl": "https://pbs.twimg.com/media/C-ATplBUIAALZkV.jpg",
+    "id": 206,
+    "name": "Thunderbird Resort",
+    "imageUrl": "https://i.ytimg.com/vi/lUu0F8vzSAY/maxresdefault.jpg",
     "priceCurrency": "₱",
-    "price": 120,
-    "lat": 16.6167,
-    "lng": 120.3197
+    "price": 1500,
+    "lat": 16.609267,
+    "lng": 120.286335
+  },
+   {
+    "id": 208,
+    "name": "Urbiztondo Beach",
+    "imageUrl": "http://launion.thecirclehostel.com/wp-content/uploads/2016/05/thecirclehostel-la-union-9.jpg",
+    "priceCurrency": "₱",
+    "price": 150,
+    "lat":  16.658783,
+    "lng": 120.321468
   },
   {
     "id": 211,
@@ -98,14 +89,23 @@
     "lat":  16.853714,
     "lng": 120.376905
   },
-   {
-    "id": 212,
-    "name": "Basilica Minore of OUr Lady of Charity",
-    "imageUrl": "https://3.bp.blogspot.com/-5jNtokVrZvg/V_UoXV1oXHI/AAAAAAAAIVs/3YnktxpUBaA4LoY4LoadwZ3OWrHj4c38wCLcB/s1600/IMG_3921.JPG",
+  {
+    "id": 210,
+    "name": "Halo halo de Iloko",
+    "imageUrl": "https://pbs.twimg.com/media/C-ATplBUIAALZkV.jpg",
     "priceCurrency": "₱",
-    "price": 0,
-    "lat":    16.324756,
-    "lng": 120.355081
+    "price": 120,
+    "lat": 16.6167,
+    "lng": 120.3197
+  },
+   {
+    "id": 201,
+    "name": "Bahay na Bato",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZ4Qi9y7TZ6w5jKTlZ6JW_ETBxFMNVzH0ndm1loia4qqtr2ms",
+    "priceCurrency": "₱",
+    "price": 50,
+    "lat": 16.8472,
+    "lng": 120.3517
   },
     {
     "id": 213,
@@ -113,7 +113,7 @@
     "imageUrl": "https://github.com/mariexxJoanna19/activityfinals/blob/master/Capture.JPG?raw=true",
     "priceCurrency": "₱",
     "price": 0,
-    "lat": 16.975348,
-    "lng": 120.464735
+    "lat":  16.823509,
+    "lng": 120.402224
   }
 ]
