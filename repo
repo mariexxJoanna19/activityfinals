@@ -2,7 +2,7 @@
   {
     "id": 201,
     "name": "Bahay na Bato",
-    "imageUrl": "http://1.bp.blogspot.com/-pz6GsB-5Prw/VjsYvNkcVbI/AAAAAAAAGDU/fgr9xstMi8o/s1600/Bahay%2BNa%2BBato%2B7.jpg",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZ4Qi9y7TZ6w5jKTlZ6JW_ETBxFMNVzH0ndm1loia4qqtr2ms",
     "priceCurrency": "₱",
     "price": 50,
     "lat": 16.8472,
@@ -11,7 +11,7 @@
   {
     "id": 202,
     "name": "Marand Resort",
-    "imageUrl": "http://images.asiatravel.com/Hotel/17684/facade.jpg",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmV090tq1sED9pWwcTmVMrxWgjGTrOZfVqqGeyaWlzU593SRaU",
     "priceCurrency": "₱",
     "price": 150,
     "lat": 16.5264,
@@ -20,7 +20,7 @@
   {
     "id": 203,
    "name": "Tangadan Falls",
-    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvl3MKBoPQSIoo2ji5LvG1i1AO8LoaL-EABAPk5YsUPBKJ1jJbw",
     "priceCurrency": "₱",
     "price": 30,
     "lat": 16.2833,
