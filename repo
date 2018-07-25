@@ -1,114 +1,154 @@
 [
   {
-    "id": 212,
-    "name": "Basilica Minore of OUr Lady of Charity",
-    "imageUrl": "https://3.bp.blogspot.com/-5jNtokVrZvg/V_UoXV1oXHI/AAAAAAAAIVs/3YnktxpUBaA4LoY4LoadwZ3OWrHj4c38wCLcB/s1600/IMG_3921.JPG",
-    "priceCurrency": "₱",
-    "price": 0,
-    "lat":    16.324756,
-    "lng": 120.355081
+    "id": 201,
+    "name": "Boracay Island",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Ywy0AHRWqH9rSQfOtVoLraTTxc5KFg0uukP9C7cE_B_664QILg",
+    "priceCurrency": "Km",
+    "price": 741,
+    "lat":   11.978227,
+    "lng": 121.899579    
   },
   {
     "id": 202,
-    "name": "Marand Resort",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmV090tq1sED9pWwcTmVMrxWgjGTrOZfVqqGeyaWlzU593SRaU",
-    "priceCurrency": "₱",
-    "price": 150,
-    "lat": 16.5264,
-    "lng": 120.3294
+    "name": "Coron, Palawan",
+    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/64242_2.jpg",
+    "priceCurrency": "Km",
+    "price": 740,
+    "lat":  12.038834,
+    "lng": 120.127171
+    
   },
   {
     "id": 203,
-   "name": "Tangadan Falls",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvl3MKBoPQSIoo2ji5LvG1i1AO8LoaL-EABAPk5YsUPBKJ1jJbw",
-    "priceCurrency": "₱",
-    "price": 30,
-    "lat": 16.2833,
-    "lng": 120.4833
+   "name": "Kawasan Falls, Cebu",
+    "imageUrl": "https://dumagueteinfo.com/attractions/app/uploads/2018/07/maxresdefault-1-1.jpg",
+    "priceCurrency": "Km",
+    "price": 1194,
+    "lat": 9.820745,
+    "lng":  123.342563
+    
   },
   {
     "id": 204,
-    "name": "Kahuna Resort",
-    "imageUrl": "http://www.kahunaresort.com/images/slider/slider-03.png",
-    "priceCurrency": "₱",
-    "price": 200,
-    "lat": 16.6583,
-    "lng": 120.3216
-  },
-  {
-    "id": 207,
-    "name": "Grapes Picking",
-    "imageUrl": "https://immeross.files.wordpress.com/2015/01/img_2064-0.jpg",
-    "priceCurrency": "₱",
-    "price": 0,
-    "lat":  16.461432,
-    "lng": 120.333869
+    "name": "Bohol, Chocolate Hills",
+    "imageUrl": "http://thehappytrip-5592.kxcdn.com/wp-content/uploads/2016/03/IMG_1815.jpg",
+    "priceCurrency": "Km",
+    "price": 1198,
+    "lat": 9.756779,
+    "lng": 124.104956
+     
   },
   {
     "id": 205,
-    "name": "Macho Temple",
-    "imageUrl": "https://media3.trover.com/T/56cab8077eb4f47a5a19f2ba/fixedw_large_4x.jpg",
-    "priceCurrency": "₱",
-    "price": 0,
-    "lat":  16.621514,
-    "lng": 120.317510
-  },
-  {
-    "id": 209,
-   "name": "Pugad Resort",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b9/67/c2/pugad-adventure-la-union.jpg",
-    "priceCurrency": "₱",
-    "price": 200,
-    "lat": 16.2833,
-    "lng": 120.4833
+    "name": "Siaton Balanan",
+    "imageUrl": "https://www.lakwatsero.com/wp-content/uploads/2013/01/1.jpg",
+    "priceCurrency": "Km",
+    "price": 1229,
+    "lat":  9.276021,
+    "lng":  123.377446 
   },
   {
     "id": 206,
-    "name": "Thunderbird Resort",
-    "imageUrl": "https://i.ytimg.com/vi/lUu0F8vzSAY/maxresdefault.jpg",
-    "priceCurrency": "₱",
-    "price": 1500,
-    "lat": 16.609267,
-    "lng": 120.286335
-  },
-   {
-    "id": 208,
-    "name": "Urbiztondo Beach",
-    "imageUrl": "http://launion.thecirclehostel.com/wp-content/uploads/2016/05/thecirclehostel-la-union-9.jpg",
-    "priceCurrency": "₱",
-    "price": 150,
-    "lat":  16.658783,
-    "lng": 120.321468
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "https://www.cna.al/wp-content/uploads/2018/04/foto78.png",
+    "priceCurrency": "Km",
+    "price": 179,
+    "lat":  16.935455,
+    "lng": 121.057634
+     
   },
   {
-    "id": 211,
-    "name": "Namacpacan Church",
-    "imageUrl": "http://www.greedypeg.net/p/2016/07/15/41817_1.jpg",
-    "priceCurrency": "₱",
-    "price": 0,
-    "lat":  16.853714,
-    "lng": 120.376905
+    "id": 207,
+   "name": "Camarines Sur",
+    "imageUrl": "https://2.bp.blogspot.com/-Un93lRsuhUY/VVmeKV95RXI/AAAAAAAAd04/rGu0QNJF3Ro/s1600/Camarines%2BSur%2BTourist%2BSpots%2BPhotos%2B(4).jpg",
+    "priceCurrency": "Km",
+    "price": 710,
+    "lat": 13.514006,
+    "lng": 123.324281
+     
+  },
+  {
+    "id": 208,
+    "name": "Nagsasa Cove, Zambales",
+    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/61176.jpg",
+    "priceCurrency": "Km",
+    "price": 304,
+    "lat": 14.812085,
+    "lng": 120.100667
+     
+  },
+   {
+    "id": 209,
+    "name": "Siargao Island, Surigao del Norte",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGGUgJ3q7fKEGaTaa1--gWhWZbUnKC_au6BGqtkuQTbgy80bh",
+    "priceCurrency": "Km",
+    "price": 1434,
+    "lat":  9.511130,
+    "lng": 125.718600
+     
   },
   {
     "id": 210,
-    "name": "Halo halo de Iloko",
-    "imageUrl": "https://pbs.twimg.com/media/C-ATplBUIAALZkV.jpg",
-    "priceCurrency": "₱",
-    "price": 120,
-    "lat": 16.6167,
-    "lng": 120.3197
+    "name": "Malapascua Island, Daanbantayan Cebu",
+    "imageUrl": "https://www.cebucitytour.com/wp-content/uploads/2012/07/malapascua-island.jpeg",
+    "priceCurrency": "Km",
+    "price": 1051,
+    "lat":  11.260016,
+    "lng":  124.031203
+    
+  },
+  {
+    "id": 211,
+    "name": "Hundred Islands, Alaminos Pangasinan",
+    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/70885.jpg",
+    "priceCurrency": "Km",
+    "price": 161,
+    "lat": 16.202527,
+    "lng": 120.028655
+     
   },
    {
-    "id": 201,
-    "name": "Bahay na Bato",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZ4Qi9y7TZ6w5jKTlZ6JW_ETBxFMNVzH0ndm1loia4qqtr2ms",
-    "priceCurrency": "₱",
-    "price": 50,
-    "lat": 16.8472,
-    "lng": 120.3517
+    "id": 212,
+    "name": "Fort Santiago Intramuros, Manila",
+    "imageUrl": "https://www.tripsavvy.com/thmb/q9nGmI6z4iFxmbc130qMSI21BpY=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-515030857-599ff63e03f402001100ee1d.jpg",
+    "priceCurrency": "Km",
+    "price": 300,
+    "lat": 14.596397,
+    "lng": 120.944760
+     
+  },
+   {
+    "id": 213,
+    "name": "Magellans Cross, Cebu City",
+    "imageUrl": "https://dbrightspot.files.wordpress.com/2012/05/p1010480b.jpg",
+    "priceCurrency": "Km",
+    "price": 1127,
+    "lat": 10.299636,
+    "lng": 123.873505
+     
+  },
+   {
+    "id": 214,
+    "name": "Tubbataha Reef, Palawan",
+    "imageUrl": "http://globalnation.inquirer.net/files/2014/08/03_Tubbataha1.jpg",
+    "priceCurrency": "Km",
+    "price": 1103,
+    "lat": 9.774057,
+    "lng": 118.724734
+     
+  },
+   {
+    "id": 215,
+    "name": "Cagsawa Ruins, Albay",
+    "imageUrl": "https://c1.staticflickr.com/7/6172/6213124148_4568102f5b_b.jpg",
+    "priceCurrency": "Km",
+    "price": 763,
+    "lat":  13.171528,
+    "lng": 123.698283
+    
   },
     {
-    "id": 213,
+    "id": 216,
     "name": "House",
     "imageUrl": "https://github.com/mariexxJoanna19/activityfinals/blob/master/Capture.JPG?raw=true",
     "priceCurrency": "₱",
@@ -116,4 +156,6 @@
     "lat":  16.823509,
     "lng": 120.402224
   }
+ 
+  
 ]
