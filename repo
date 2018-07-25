@@ -3,8 +3,8 @@
     "id": 201,
     "name": "Boracay Island",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Ywy0AHRWqH9rSQfOtVoLraTTxc5KFg0uukP9C7cE_B_664QILg",
-    "priceCurrency": "",
-    "price": ,
+    "priceCurrency": "Km",
+    "price": 741,
     "lat":   11.978227,
     "lng": 121.899579    
   },
@@ -151,8 +151,8 @@
     "id": 216,
     "name": "House",
     "imageUrl": "https://github.com/mariexxJoanna19/activityfinals/blob/master/Capture.JPG?raw=true",
-    "priceCurrency": "₱",
-    "price": 0,
+    "priceCurrency": "Km",
+    "price":0 ,
     "lat":  16.823509,
     "lng": 120.402224
   }
